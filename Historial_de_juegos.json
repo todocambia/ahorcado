@@ -19,6 +19,11 @@
             "game_mode": "1 Jugador",
             "result": "Derrota",
             "word": "nonbuoyancy"
+        },
+        {
+            "game_mode": "2 Jugadores",
+            "result": "Victoria",
+            "word": "moreta"
         }
     ]
 }
