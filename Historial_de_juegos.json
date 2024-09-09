@@ -1,0 +1,24 @@
+{
+    "juegos": [
+        {
+            "game_mode": "2 Jugadores",
+            "result": "Victorias",
+            "word": "ass"
+        },
+        {
+            "game_mode": "2 Jugadores",
+            "result": "Victoria",
+            "word": "hola"
+        },
+        {
+            "game_mode": "2 Jugadores",
+            "result": "Victoria",
+            "word": "ass"
+        },
+        {
+            "game_mode": "1 Jugador",
+            "result": "Derrota",
+            "word": "nonbuoyancy"
+        }
+    ]
+}
